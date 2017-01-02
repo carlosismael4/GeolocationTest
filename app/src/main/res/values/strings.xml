@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeolocationTest</string>
+    <string name="title_activity_university_map">Map</string>
+</resources>
